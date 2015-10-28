@@ -138,7 +138,7 @@ public class QiangHongBaoService extends AccessibilityService {
             Log.w(TAG, "rootWindow为空");
             return;
         }
-        
+
         List<AccessibilityNodeInfo> list = nodeInfo.findAccessibilityNodeInfosByText("领取红包");
         if(list.isEmpty()) {
             list = nodeInfo.findAccessibilityNodeInfosByText(HONGBAO_TEXT_KEY);
