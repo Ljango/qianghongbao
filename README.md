@@ -3,6 +3,8 @@
 #### 效果预览
 ![](show_min.gif)
 
+##### 这是fork [https://github.com/lendylongli/qianghongbao] 工程的  仅仅是看看代码
+
 ####源码下载地址:[https://github.com/lendylongli/qianghongbao](https://github.com/lendylongli/qianghongbao)
 ####apk下载地址 : [百度云下载 http://pan.baidu.com/s/1jGgjQUq](http://pan.baidu.com/s/1jGgjQUq)
 
