@@ -114,6 +114,7 @@ public class QiangHongBaoService extends AccessibilityService {
         }
     }
 
+    //拆完红包后看详细的纪录界面
     @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
     private void checkKey1() {
         AccessibilityNodeInfo nodeInfo = getRootInActiveWindow();
@@ -127,6 +128,9 @@ public class QiangHongBaoService extends AccessibilityService {
         }
     }
 
+
+
+    //在聊天界面,去点中红包
     @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
     private void checkKey2() {
         AccessibilityNodeInfo nodeInfo = getRootInActiveWindow();
@@ -134,6 +138,7 @@ public class QiangHongBaoService extends AccessibilityService {
             Log.w(TAG, "rootWindow为空");
             return;
         }
+        
         List<AccessibilityNodeInfo> list = nodeInfo.findAccessibilityNodeInfosByText("领取红包");
         if(list.isEmpty()) {
             list = nodeInfo.findAccessibilityNodeInfosByText(HONGBAO_TEXT_KEY);
