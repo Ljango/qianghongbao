@@ -1,9 +1,10 @@
 #CodeBoy微信抢红包外挂
+##### 这是fork [https://github.com/lendylongli/qianghongbao] 工程的  仅仅是看看代码
+
+
 
 #### 效果预览
 ![](show_min.gif)
-
-##### 这是fork [https://github.com/lendylongli/qianghongbao] 工程的  仅仅是看看代码
 
 ####源码下载地址:[https://github.com/lendylongli/qianghongbao](https://github.com/lendylongli/qianghongbao)
 ####apk下载地址 : [百度云下载 http://pan.baidu.com/s/1jGgjQUq](http://pan.baidu.com/s/1jGgjQUq)
@@ -133,11 +134,8 @@ feedbackAllMask | 所有以上的反馈
 
 版本归作者所有,转载请注明出处:[http://www.happycodeboy.com/index.php/archives/10/](http://www.happycodeboy.com/index.php/archives/10/)
 
-##关于作者
+#######关于作者
 英文名:Leon
-
 个人博客:[http://www.happycodeboy.com](http://www.happycodeboy.com)
-
 Email:codeboy2013@gmail.com
-
 QQ:730395591
